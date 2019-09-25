@@ -52,9 +52,11 @@ target_link_libraries(${VITA_APPNAME}
   vorbisfile
   vorbis
   ogg
+  mikmod
   opl_vita
   kbdvita
   vitaGL
+  mathneon
   m
   SceAppUtil_stub
   SceAudio_stub
